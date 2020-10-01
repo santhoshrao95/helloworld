@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T11:54:55.409Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="du1V_wQirWmyVex6qY29" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T16:45:09.867Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6eSfQbD3gUr1GSyhQq3T" version="13.7.5" type="github">
   <diagram id="EBl1bUhuX_m08gnKSoFN" name="Page-1">
     <mxGraphModel dx="801" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-1" value="Receive an order with an images(Front, Rear, Side view) of a user in Whatsapp Business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="305" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-2" value="Open a received images in AiTape" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-2" value="Open a received images in&amp;nbsp;&lt;span style=&quot;font-size: 10px ; background-color: transparent ; font-family: &amp;#34;shadows into light&amp;#34; , cursive ; font-weight: 700 ; vertical-align: baseline&quot;&gt;ai&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; background-color: transparent ; font-family: &amp;#34;maven pro&amp;#34; , sans-serif ; font-weight: 700 ; vertical-align: baseline&quot;&gt;Tape app&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-3" value="Process an received image for noises" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-7" value="Stitch the clothes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-8" value="Send customers the images of the clothing materails with the details Whatsapp Business" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-8" value="Send customers the images of the clothing materails with the details in Whatsapp Business app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="210" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-9" value="Deleiver to the customers location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,6 +69,12 @@
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_Lo8wRK0yVBoWJrX3R7-24" value="&lt;span id=&quot;docs-internal-guid-b161ea7a-7fff-50ea-ac1f-32d184c75de3&quot; style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;shadows into light&amp;#34; , cursive ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;ai&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;maven pro&amp;#34; , sans-serif ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;Tape&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
