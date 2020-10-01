@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T12:38:46.758Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.5" etag="PAB92zAm7gVeumZjeqXn" type="github"><diagram id="RXNHdP_7tuQIQfgyDhtV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-01T12:45:25.723Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hWnxmrrgIY8IqnqoeZaK" version="13.7.5" type="github">
+  <diagram id="RXNHdP_7tuQIQfgyDhtV" name="Page-1">
+    <mxGraphModel dx="801" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u0YcfvyxpfXa9NovZ5Kd-1" value="&lt;span id=&quot;docs-internal-guid-9638bdd4-7fff-e972-a14e-efc1e479b0aa&quot; style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;shadows into light&amp;#34; , cursive ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;ai&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;&lt;font face=&quot;maven pro, sans-serif&quot;&gt;Tape&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;font face=&quot;maven pro, sans-serif&quot;&gt;(Deep Neural Network Computer vision model)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u0YcfvyxpfXa9NovZ5Kd-2" value="Customer images (Front, rear and side view)" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u0YcfvyxpfXa9NovZ5Kd-3" value="Predicted measurements" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u0YcfvyxpfXa9NovZ5Kd-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0YcfvyxpfXa9NovZ5Kd-2" target="u0YcfvyxpfXa9NovZ5Kd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u0YcfvyxpfXa9NovZ5Kd-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u0YcfvyxpfXa9NovZ5Kd-1" target="u0YcfvyxpfXa9NovZ5Kd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
