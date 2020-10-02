@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T05:54:41.322Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="lvjZaix0jsvN9UlnrMlh" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T14:06:08.345Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="R0v4LikfbVRdQbPGjElg" version="13.7.7" type="github">
   <diagram id="rk11bjVnA0F38wMF333B" name="Page-1">
     <mxGraphModel dx="801" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="360" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HMAcgmKzDWIIHweVKq-R-1" value="Pick a fabric and a tailor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HMAcgmKzDWIIHweVKq-R-1" value="Pick a fabric, tailor and place an order" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMAcgmKzDWIIHweVKq-R-2" value="Upload an image (Front, side and rear)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -57,7 +57,7 @@
         <mxCell id="HMAcgmKzDWIIHweVKq-R-22" value="&lt;span style=&quot;background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;&lt;font face=&quot;Shadows Into Light&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Shadows+Into+Light&quot; style=&quot;font-size: 12px&quot;&gt;ai&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;&lt;font face=&quot;maven pro, sans-serif&quot; style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Tape&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="230" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7DN_pJ2htIa6dP6RV6gg-1" value="Fabric material from seller to Tailor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7DN_pJ2htIa6dP6RV6gg-1" value="Fabric material from seller to Tailor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="200" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
